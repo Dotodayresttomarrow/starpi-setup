@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "license_requests",
+  "info": {
+    "singularName": "license-request",
+    "pluralName": "license-requests",
+    "displayName": "LicenseRequest",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "MobileNumber": {
+      "type": "string"
+    }
+  }
+}
